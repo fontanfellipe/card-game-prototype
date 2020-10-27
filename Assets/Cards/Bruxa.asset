@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9b15ba9dbe36f154a88b6def95c69e5f, type: 3}
+  m_Name: Bruxa
+  m_EditorClassIdentifier: 
+  hero: Bruxa
+  description: Bruxa da ilha
+  image: {fileID: 21300000, guid: 6b07199d4899a6948968700c1762eaa4, type: 3}
+  attack: 10
+  defense: 8
+  color: {r: 0.40745443, g: 0.082102165, b: 0.68235296, a: 1}
